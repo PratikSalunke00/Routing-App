@@ -1,0 +1,12 @@
+.about-container{
+    background-color: #fcd2e0;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.about-heading{
+    color:#bf2853;
+     margin: 0;
+     text-align: center;
+     padding-top: 20px;
+}

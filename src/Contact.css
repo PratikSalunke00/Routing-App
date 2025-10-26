@@ -1,0 +1,12 @@
+.contact-container{
+    background-color: #d0e0fc;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.contact-heading{
+    color:#474AE6 ;
+    margin: 0;
+    text-align: center;
+    padding-top: 20px;
+}
